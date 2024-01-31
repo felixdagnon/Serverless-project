@@ -4,7 +4,7 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/85665394-5e5f-4d5e-8940-0a7ea3ce46cd)
 
-Below is a "PersonRecords" table with primary key as "PersonID" (unique identifier).
+# Below is a "PersonRecords" table with primary key as "PersonID" (unique identifier).
 
 // first person
 
@@ -44,9 +44,9 @@ Below is a "PersonRecords" table with primary key as "PersonID" (unique identifi
 }
 
 
-Insertting into DynamoDB using lambda function
+# Insertting into DynamoDB using lambda function
 
----json
+```json
 import json
 import boto3
 
@@ -61,7 +61,7 @@ def lambda_handler(event, context):
         return "Done"
     except:
         raise
-    ---
+    ```
 
     ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/72800122-8ab4-44fd-8bfe-567bd57b3c81)
 
