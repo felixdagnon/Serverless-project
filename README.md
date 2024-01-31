@@ -47,6 +47,7 @@
 ### Insertting into DynamoDB using lambda function
 
 ```json
+{
 import json
 import boto3
 
@@ -61,7 +62,9 @@ def lambda_handler(event, context):
         return "Done"
     except:
         raise
+}
 ```
+
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/3622a96f-ff8b-4b3c-8337-7e8f8cb2bba9)
 
