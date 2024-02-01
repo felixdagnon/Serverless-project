@@ -95,6 +95,14 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
 
+### Use visual studio code to invoke
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/820aea92-c062-4b8b-976b-633f6f47ab99)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7eac9583-f486-44b4-a462-60d5e63a91bd)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/c4a5f1c5-a244-4133-b57f-2494bc1c0d25)
+
 
 
 
