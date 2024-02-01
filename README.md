@@ -81,6 +81,27 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/0360e981-365d-4fbc-bf9f-518fe219229b)
 
+### Encryption of Data using Cmk in lambda
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/f3a18bd3-2092-4510-b003-c5f3da213caa)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/4b43f5a2-85e3-4a73-8750-7de020db9c94)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/17e1718b-f890-4a6f-8948-21a3a928d437)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/f00994b5-8af5-48c3-b25a-2c2ae4d797d5)
+
+### Create new lambda function
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
+
+
+
+
+
+
+
+
 
 
 
