@@ -64,6 +64,25 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/9a38c895-05fb-4e5d-b891-0f492086bc6e)
 
+### DynamoDB Secondary index
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/a9218495-c2ca-4fa7-ad60-c6ffa1b6caaa)
+
+// Create item
+
+{
+ "Artist": "No one you know",
+ "SongTitle": "My dog spot",
+ "AlbumTitle": "Hey now",
+ "Genre": "Country",
+ "Price": 1.98,
+ "YearOfAlbum": "1083"
+}
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/0360e981-365d-4fbc-bf9f-518fe219229b)
+
+
+
 
 
 
