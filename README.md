@@ -1,4 +1,4 @@
-# Serverless-project
+# Serverless-project-using-DynamoDb-lambda-data-encryption
 
 ### Create DynamoDB Table People and create item
 
