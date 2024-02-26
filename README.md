@@ -81,7 +81,7 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/0360e981-365d-4fbc-bf9f-518fe219229b)
 
-### 7-Encryption of Data using Cmk in lambda
+### 6-Encryption of Data using Cmk in lambda
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/f3a18bd3-2092-4510-b003-c5f3da213caa)
 
