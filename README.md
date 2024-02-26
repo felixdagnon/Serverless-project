@@ -1,6 +1,6 @@
 # Serverless-project
 
-### Create DynamoDB Table Peaople and create item
+### Create DynamoDB Table People and create item
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/85665394-5e5f-4d5e-8940-0a7ea3ce46cd)
 
