@@ -1,6 +1,6 @@
 # Serverless-project-using-DynamoDb-lambda-data-encryption
 
-### Create DynamoDB Table People and create item
+### 1-Create DynamoDB Table People and create item
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/85665394-5e5f-4d5e-8940-0a7ea3ce46cd)
 
@@ -44,11 +44,11 @@
 }
 
 
-### Insertting into DynamoDB using lambda function
+### 2-Insertting into DynamoDB using lambda function
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/3622a96f-ff8b-4b3c-8337-7e8f8cb2bba9)
 
-### Deletting in DynamoDB using lambda function
+### 3-Deletting in DynamoDB using lambda function
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/b0d5a26b-3096-478e-bb87-97276b15ce97)
 
@@ -56,7 +56,7 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/43ed2a42-3066-40c0-befa-6ae366581c5c)
 
-### DynamoDB Strongly and Consistent Read
+### 4-DynamoDB Strongly and Consistent Read
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/a50caa1d-9706-4127-9957-8ac2bb6bcef3)
 
@@ -64,7 +64,7 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/9a38c895-05fb-4e5d-b891-0f492086bc6e)
 
-### DynamoDB Secondary index
+### 5-DynamoDB Secondary index
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/a9218495-c2ca-4fa7-ad60-c6ffa1b6caaa)
 
@@ -81,7 +81,7 @@
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/0360e981-365d-4fbc-bf9f-518fe219229b)
 
-### Encryption of Data using Cmk in lambda
+### 7-Encryption of Data using Cmk in lambda
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/f3a18bd3-2092-4510-b003-c5f3da213caa)
 
